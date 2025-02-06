@@ -7,8 +7,12 @@ This project is a clone of the Amazon website, built using HTML and CSS. It repr
 This is an Amazon clone project implemented purely in front-end, using only HTML for structuring the content and CSS for styling.  It aims to replicate the basic layout and some functionalities of the Amazon website, which makes it a very practical exercise in web development fundamentals.  This is my first attempt at creating a clone project, and it has helped me understand the structure and styling of a real-world website.
 
 ## Technologies Used
+
 - **HTML**: For structuring the content of the website.
 - **CSS**: For styling and layout of the web pages.
+
+## Preview
+You can view the live preview of the project [here](https://amazon-clone-1899.netlify.app/).
 
 ## Disclaimer
 

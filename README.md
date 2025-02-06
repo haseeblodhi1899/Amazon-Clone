@@ -12,7 +12,7 @@ This is an Amazon clone project implemented purely in front-end, using only HTML
 - **CSS**: For styling and layout of the web pages.
 
 ## Preview
-You can view the live preview of the project [here](https://amazon-clone-1899.netlify.app/).
+You can view the live preview of the project: https://amazon-clone-1899.netlify.app/
 
 ## Disclaimer
 
